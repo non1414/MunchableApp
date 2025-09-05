@@ -1,0 +1,76 @@
+/*
+  Localizable.strings
+  MUNCHABLE
+
+  Created by نوف بخيت الغامدي on 21/05/1446 AH.
+  
+*/
+
+
+// Onboarding
+/* Onboarding */
+"Skip" = "تخطي";
+"Start" = "ابدأ";
+
+/* Page 1 */
+"on_title_1" = "أحدث التقنيات";
+"on_desc_1"  = "استخدم Make it عشان تكتشف وصفات ملهمة وتضيف شوية متعة على اكلك باستخدام الذكاء الاصطناعي.";
+
+/* Page 2 */
+"on_title_2" = "خذلك جرعة إلهام!";
+"on_desc_2"  = "مو عارف وش تاكل؟ إحنا نقترحلك اكلات تطبخها بالمكونات اللي عندك.";
+
+
+
+/* Recipe screen (لو تحتاجينها) */
+"Ingredients" = "المقادير";
+"No ingredients found" = "لا توجد مكونات";
+"Directions" = "الطريقة";
+"Change recipe" = "تغيير الوصفة";
+"Next" = "التالي";
+"Previous" = "السابق";
+"Done" = "تم";
+
+
+
+// Make it
+"welcome_message" = "مرحبًا بكم في عالمنا المليء بمغامرات الطبخ!";
+"description_message" = "استعد لاستكشاف وصفات شهية وتعلم طبخ زي المحترفين مع Munchable!";
+"start_button" = "ابدأ";
+
+// Categorys
+"choose_ingredient_title" = "اختر المكونات اللي عندك!";
+"search_placeholder" = "إيش في مطبخك اليوم؟";
+"recently_searched" = "تم البحث مؤخراً";
+"no_recent_searches" = "لم يتم العثور على أي عمليات بحث حديثة";
+"next_button" = "التالي";
+"step_title" = "الخطوة 1";
+"Cancel" = "إلغاء";
+
+// Ingredients
+"your_ingredients_title" = "مكوناتك هي";
+"make_it_button" = "اصنعها";
+"edit_button" = "تعديل";
+"done_button" = "تم";
+"step_2_title" = "الخطوة 2";
+
+// RecipeFromAi
+"Pancake" = "بان كيك";
+"Ingredients" = "المكونات";
+"Directions" = "الطريقة";
+"Previous" = "السابق";
+"Next" = "التالي";
+"Done" = "تم";
+"Mix dry ingredients." = "اخلط المكونات الجافة.";
+"Preheat oven to 200°F." = "سخن الفرن على 200 درجة.";
+"Mix wet ingredients." = "اخلط المكونات السائلة.";
+"Add dry ingredients to milk mixture." = "أضف المكونات الجافة إلى خليط الحليب.";
+"Heat a large skillet." = "سخن مقلاة كبيرة.";
+"For each pancake, spoon 2 to 3 tablespoons." = "لكل بان كيك، ضع 2 إلى 3 ملاعق كبيرة.";
+"Back" = "رجوع";
+"Ingredients" = "المقادير";
+"No ingredients found" = "لا توجد مكونات";
+"Directions" = "الطريقة";
+"Change recipe" = "تغيير الوصفة";
+"Next" = "التالي";
+"Done" = "تم";
